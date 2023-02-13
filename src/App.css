@@ -1,0 +1,17 @@
+.box {
+  background-color: aqua;
+  display: flex;
+  flex-direction: column;
+  width: fit-content;
+  padding: 50px;
+  gap: 15px;
+  background: rgba(255, 255, 255, 0.5);
+  border: 1px solid rgba(255, 255, 255, 0.25);
+}
+.background {
+  background-color: bisque;
+  height: 100vh;
+}
+h1{
+  margin-left: 23%; 
+}
